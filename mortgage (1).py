@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import tkinter as tk
 from tkinter import messagebox, simpledialog
@@ -355,7 +350,6 @@ if __name__ == "__main__":
     root.mainloop()
 
 
-# In[ ]:
 
 
 
